@@ -13,16 +13,10 @@
 <p align="left">
   <ul>
     <li>
-      <a href="#">
+      <a href="https://github.com/fe-nov23-Skynet/product_catalog">
         Nice Gadgets 
       </a>
 ‎ ‎ // Online gadgets Store. (React, TypeScript, Redux Toolkit, i18next, Swiper, toastify-js, OpenAI API)
-    </li>
-    <li>
-             <a href="#">
-          Admin Panel for Nice Gadgets 
-      </a>
-      ‎ ‎ // (Next.js, MongooDB, Sockets.io, NextAuth, AWS storage)
     </li>
     <li>
        <a href="#">
@@ -37,8 +31,8 @@
      ‎ ‎ // (React, Fetch API, SASS, useContext)
     </li>
     <li>
-       <a href="#">
-        Landing page
+       <a href="https://github.com/Xilston/MyBike_Landing">
+        MyBike Landing page
       </a>
       ‎ ‎ //  (HTML, SASS, AOS Animations)
     </li>
